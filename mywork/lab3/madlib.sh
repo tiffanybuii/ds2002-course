@@ -16,8 +16,8 @@ read -p "11. Please give me a verb: " VERB2
 read -p "12. Please give me a noun: " NOUN4
 read -p "13. Please give me a part of the body: " BODY2
 read -p "14. Please give me a noun: " NOUN5
-read -p "15. Please give me an adverb: " ADVERB2
-read -p "16. Please give me a verb: " VERB3
+read -p "15. Please give me an adverb: " ADJ4
+read -p "16. Please give me an emotion: " EMOTION1
 read -p "17. Please give me a verb: " VERB4
 read -p "18. Please give me an exclamation: " EXCLAMATION1
 read -p "19. Please give me a past tense verb: " PASTVERB1  
@@ -39,9 +39,9 @@ echo "I could see a look of $ADJ3 in your eyes."
 echo -e "You hesitated for a moment, then gave me a $NOUN3.\n"
 echo "I finally got to take you on our first date. I loved spending time with you."
 echo "You could make me $VERB2 so easily, like no one had before."
-echo "when you touched me, I felt $NOUN4 up my $BODY2."
+echo "When you touched me, I felt $NOUN4 up my $BODY2."
 echo -e "When you looked at me, I could see $NOUN5. I knew we were meant to be together.\n"
-echo "After a $ADVERB2 night, I was so $VERB3 to bring you home."
+echo "After a $ADJ4 night, I was so $EMOTION1 to bring you home."
 echo "I longed to $VERB4 you again."
 echo "You looked at me and said, '$EXCLAMATION1' and I just knew."
 echo -e "You $PASTVERB1 me and I $PASTVERB2 you.\n"
